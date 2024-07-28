@@ -2,7 +2,7 @@
 
 A modern responsive company website with a blog.  This project is built with HTML5, CSS3, and Javascript (vanilla).  The website is deployed on GitHub Pages
 
-![company website screenshot](./README_SCREENSHOTS/COMPANY_WEBSITE_WITH_BLOG.png)
+![company website screenshot](images/COMPANY_WEBSITE_WITH_BLOG.png)
 
 ## Project Specifications
 
