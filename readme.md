@@ -8,4 +8,4 @@ A modern responsive company website with a blog.  This project is built with HTM
 
 - Create Responsive UI for project
 - Additional pages - Cases page and Blog page
-- Ready to be handed of to a backend-developer
+- Ready to be handed off to a backend-developer
